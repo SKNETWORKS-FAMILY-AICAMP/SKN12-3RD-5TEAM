@@ -104,14 +104,16 @@ llm_category_chatbot/
 
     유사도 기반 검색을 위한 벡터 데이터베이스 구축
 
-[데이터 수집 및 전처리 문서](https://github.com/AshOne91/3rd_project/blob/main/output/12SKN_project3_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EC%84%9C.pdf)
+[데이터 수집 및 전처리 문서](./output/12SKN_project3_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EC%84%9C.pdf)
+
 
 ---
 ## 시스템 아키텍처
 
 ![_](https://cdn.discordapp.com/attachments/1346621776909570109/1378963876887920761/1.png?ex=683e83b0&is=683d3230&hm=2e18d608a69697dbb5f690ae05a75da85ca6e756ec91f5d8afb4a2dd474a2aba&)
 
-[시스템 아키텍처 문서](https://github.com/AshOne91/3rd_project/blob/main/output/5%EC%A1%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.pdf)
+[5조 시스템 아키텍쳐.pdf](./산출물/5%EC%A1%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.pdf)
+
 
 ---
 ## LLM 모델 테스트
@@ -126,7 +128,8 @@ llm_category_chatbot/
 
 세부 내용은 다음 pdf 참조
 
-[LLM 테스트 계획 및 결과 보고서](https://github.com/AshOne91/3rd_project/blob/main/output/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B83_LLM%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+[프로젝트3_LLM 테스트 계획 및 결과 보고서.pdf](./산출물/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B83_LLM%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+
 
 ---
 ## 사용방법
