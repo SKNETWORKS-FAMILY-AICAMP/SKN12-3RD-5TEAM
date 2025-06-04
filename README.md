@@ -104,7 +104,8 @@ llm_category_chatbot/
 
     유사도 기반 검색을 위한 벡터 데이터베이스 구축
 
-[데이터 수집 및 전처리 문서](./output/12SKN_project3_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EC%84%9C.pdf)
+[12SKN_project3_데이터 수집 및 전처리 문서.pdf](./산출물/12SKN_project3_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EC%84%9C.pdf)
+
 
 
 ---
