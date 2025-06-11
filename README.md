@@ -6,7 +6,7 @@
 ### 팀 명 : 윈도우즈
 ## 팀 멤버
 
-| <img src="https://cdn.discordapp.com/attachments/1377154931663962197/1379616067894247444/2Q.png?ex=6840e316&is=683f9196&hm=0ccf631b168d7c31e9399748acb80162066afa1122591c9e911c79e7497cef78&" width="700"/> | <img src="https://cdn.discordapp.com/attachments/1090653800563486763/1379631543454138400/ddef0542b3be7530.png?ex=6840f180&is=683fa000&hm=889489a13110879d1ac364f1fbfd25cb1730ea46fcca83009b63c2f1b742bef7&" width="700"/> | <img src="https://cdn.discordapp.com/attachments/1377154931663962197/1379615995517341776/Z.png?ex=6840e305&is=683f9185&hm=351753f3e14d112ee5f684976e1d86a137dfaa137112933d3fc57093b350bf28&" width="700"/> | <img src="https://cdn.discordapp.com/attachments/1377154931663962197/1379615665199255622/49836_55372_349.png?ex=6840e2b6&is=683f9136&hm=84bb12bc687de639f4bb2924806127d216fa87231ce1481b53d4e0846531e5fc&" width="700"/> | <img src="https://cdn.discordapp.com/attachments/1377154931663962197/1379617527549919232/Z.png?ex=6840e472&is=683f92f2&hm=3c304b9c2f15b99c904f0e892930512c4489f2bad96d3f02b8110d3ceafeca8e&" width="700"/> |
+| <img src="./assets/권성호.png" width="700"/> | <img src="./assets/남의헌.png" width="700"/> | <img src="./assets/손현성.png" width="700"/> | <img src="./assets/이준배.jpg" width="700"/> | <img src="./assets/이준석.png" width="700"/> |
 |:--:|:--:|:--:|:--:|:--:|
 | **권성호** | **남의헌** | **손현성** | **이준배** | **이준석** |
 
